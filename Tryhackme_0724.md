@@ -35,7 +35,7 @@ MiB：二進位，常見於作業系統、記憶體、技術文件
 
 在寫Operating Systems: Introduction的task3時，有題的答案是**ext4**，好奇心作祟下就又花了點時間去查了一下。
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 **ext4** (第四代延伸檔案系統) : Linux 使用的日誌檔案系統，也是 ext3 的後繼版本。它在 2000 年代後期成為穩定版本，並加入 Linux 核心。
 
